@@ -1,0 +1,57 @@
+% Comandos gerais --------------------------------------------------------------
+\newcommand{\titulo}{Sistema de Inferência Neural e Processamento Estatístico
+                     Multivariável Aplicado a Indústria do Petróleo}
+\newcommand{\autor}{Diogo Leite Rebouças}
+\newcommand{\emailautor}{\tt diogolr@dca.ufrn.br}
+\newcommand{\dataaprovacao}{10 de junho de 2009}
+
+% Configuração da fonte
+\renewcommand{\familydefault}{\sfdefault}
+
+% Comandos matemáticos ---------------------------------------------------------
+% Implicação em fórmulas
+\newcommand{\implica}{$\quad\Rightarrow\quad$} %Meio de linha
+\newcommand{\implicafim}{$\quad\Rightarrow$}   %Fim de linha
+\newcommand{\tende}{$\rightarrow$}
+
+% Fração com parenteses
+\newcommand{\pfrac}[2]{\parent{\frac{#1}{#2}}}
+
+% Transformada de Laplace e transformada Z
+\newcommand{\lapl}{\pounds}
+\newcommand{\transfz}{\mathcal{Z}}
+
+% Sequências
+\newcommand{\sequencia}[4]{$#1_{#2}$, $#1_{#3}$, \ldots, $#1_{#4}$}
+
+% Outros ----------------------------------------------------------------------
+\newcommand{\chave}[1]{\left\{#1\right\}}
+\newcommand{\colchete}[1]{\left[#1\right]}
+\newcommand{\parent}[1]{\left(#1\right)}
+
+\let\D\displaystyle
+\let\al\alert
+
+\newtheorem{definicao}{Definição}
+\newtheorem{exemplo}{Exemplo}
+\newtheorem{lema}{Lema}
+\newtheorem{observ}{Observação}
+\newtheorem{teorema}{Teorema}
+
+\newcommand{\defin}[1]{\begin{definicao}#1\end{definicao}}
+\newcommand{\exemp}[1]{\begin{exemplo}#1\end{exemplo}}
+\newcommand{\obs}[1]{\begin{observ}#1\end{observ}}
+
+\newcommand{\pixel}{{\it pixel}}
+
+% Transparência dos tópicos
+\setbeamercovered{transparent}
+
+% Sumário entre as subseções
+%\AtBeginSubsection[]
+%{
+%\begin{frame}
+%\frametitle{Sumário}
+%\tableofcontents[currentsection,currentsubsection]
+%\end{frame}
+%}
