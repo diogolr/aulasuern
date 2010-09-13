@@ -104,8 +104,7 @@
     \begin{itemize}
         \item Aumento do poder de processamento
         \item Aumento da capacidade de armazenamento
-        \item Processar somente dados textuais \implica Matar lagartixa com
-              bazuca
+        \item Processar somente dados textuais \implica Exagero
     \end{itemize}
 \end{frame}
 
@@ -391,12 +390,92 @@
 
     \begin{figure}[htb]
     \centering
-        \includegraphics[width=0.8\textwidth]{imgs/pcm}
+        \includegraphics[width=0.75\textwidth]{imgs/pcm}
     \end{figure}
 
-    \scriptsize
     Saída PCM: 101|110|100|011|\ldots
+\end{frame}
 
+\begin{frame}
+    \frametitle{Conversão A/D}
+
+    Taxa de transmissão \implica Calculada a partir da banda passante do sinal
+    original
+
+    \vspace{0.25cm}
+
+    \exemp
+    {
+        Sinal de voz com Banda Passante de 3.1 KHz
+
+        \vspace{0.25cm}
+
+        Nyquist \implica 6.2 K amostras/segundo \implica 6200
+        amostras/segundo
+
+        \vspace{0.25cm}
+
+        Utilização de um número maior de amostras para facilitar a construção
+        dos {\it codecs} \implica Assume-se, por exemplo 8000 amostras/segundo
+
+        \vspace{0.25cm}
+
+        Cada amostra = 8 bits \implica 8000 * 8 bits = 64 Kbps (padrão definido
+        para telefonia digital)
+    }
+\end{frame}
+
+\begin{frame}
+    \frametitle{Conversão A/D}
+
+    Erros de quantização:
+
+    \begin{itemize}
+        \item {\bf Quantização linear}
+        \begin{itemize}
+            \item {\it Quantum} $\Delta Q$ (diferença entre os níveis de
+                  quantização) fixo
+            \item Níveis de quantização igualmente espaçados
+            \item $e = \Delta Q / 2$
+            \item Amostras de pouca amplitude são, em termos proporcionais, mais
+                  penalizadas pelo erro de quantização
+        \end{itemize}
+
+        \item {\bf Quantização logarítmica}
+        \begin{itemize}
+            \item Primeiro momento \implica Transformação do sinal para escala
+                  logarítmica
+            \item Erro máximo de quantização aproximadamente constante
+            \item Diversas funções logarítmicas \implica Destaque para a {\it
+                  lei $A$} (Europa) e para a {\it lei $\mu$} (EUA)
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Conversão A/D}
+
+    Conversão A/D de alguns sinais de áudio e vídeo
+
+    \begin{table}
+    \scriptsize
+    \begin{tabular}{|c|c|c|c|c|}
+    \hline
+    \multirow{2}{*}{\bf Sinais} & {\bf Banda} & {\bf Frequência de} & {\bf
+    Codificação} & \multirow{2}{*}{\bf Taxa de bits}\\
+    & {\bf Passante} & {\bf amostragem} & {\bf bits/amostra} & \\
+    \hline
+    \hline
+    Voz & 300 - 3400Hz & 8000 Hz & Log PCM (8b/a) & 64 Kbps\\
+    \hline
+    Qualidade & \multirow{2}{*}{0 - 21 KHz} & \multirow{2}{*}{44.1 KHz} & Log
+    PCM & 1.41 Mbps\\
+    de CD & & & 16 b/a por canal & ($2 \times 720.6$ Kbps)\\
+    \hline
+    Vídeo (NTSC) & 0 - 4.2 MHz & 10 MHz & 8 b/a & 80 Mbps\\
+    \hline
+    \end{tabular}
+    \end{table}
 \end{frame}
 
 
@@ -407,8 +486,43 @@
     Em síntese \implica Transformação da mídia digital em mídia contínua
     (perceptível pelos sentidos humanos)
 
-        %Segurador de Ordem Zero ({\it Zero Order Holder -- ZOH})
+    \vspace{0.25cm}
 
+    Tipos de conversores A/D:
+
+    \begin{itemize}
+        \item Filtro passa baixa/faixa
+        \begin{itemize}
+            \item Demonstra-se que trem de pulsos PCM (Nyquist) \implica Mesmo espectro de
+                  frequência do sinal original no intervalo de frequências da
+                  banda passante
+            \item Se não existisse erro de quantização o sinal recuperado seria
+                  idêntico ao original \implica Quanto menor o erro de
+                  quantização, mais próximo do sinal original
+            \item Lembrando que o erro de quantização é tão menor quanto maior
+                  forem o número de níveis de quantização
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Conversão D/A}
+
+    \begin{itemize}
+        \item Segurador de Ordem Zero
+        \begin{itemize}
+            \item Sinal amostrado com período $T$
+            \item Valor em $f(kT)$ é segurado até o instante $f\left((k+1)
+                  T\right)$
+        \end{itemize}
+    \end{itemize}
+
+    $$f_k(t) = f(kT), \quad kT \leq t \leq (k+1)T$$
+
+    \begin{figure}[htb]
+    \centering
+        \includegraphics[width=0.55\textwidth]{imgs/zoh}
+    \end{figure}
 \end{frame}
 
 \end{document}
