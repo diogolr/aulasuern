@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="146.9227"
+   height="112.40613"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="matriz.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.5015341"
+     inkscape:cx="73.461346"
+     inkscape:cy="56.203062"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="725"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-284.75849,-118.53912)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Camada 1">
+    <path
+       sodipodi:nodetypes="cc"
+       id="path2383"
+       d="M 309.60863,118.85462 L 431.38317,118.85462"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.59603041;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3155"
+       d="M 309.8215,136.16552 L 431.17031,136.16552"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.59603041;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3157"
+       d="M 309.8215,153.47641 L 431.17031,153.47641"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.59603041;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3159"
+       d="M 309.80324,170.7873 L 431.18856,170.7873"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.59603041;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3161"
+       d="M 309.8215,188.09819 L 431.17031,188.09819"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.59603041;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3163"
+       d="M 309.70373,205.50978 L 431.28808,205.50978"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.59603041;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3199"
+       d="M 396.66785,118.83597 L 396.66785,205.52852"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.55855036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3201"
+       d="M 379.30549,118.83597 L 379.30549,205.52852"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.55855036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3203"
+       d="M 361.94312,118.83597 L 361.94312,205.52852"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.55855036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3205"
+       d="M 344.60885,118.81838 L 344.60885,205.54612"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.55851299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3207"
+       d="M 327.25586,118.81838 L 327.25586,205.54612"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.55851299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3209"
+       d="M 309.60863,118.85462 L 309.60863,205.50988"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.59603041;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3219"
+       d="M 431.40191,118.83597 L 431.40191,205.52852"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.55855036;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3221"
+       d="M 414.03022,118.83597 L 414.03022,205.52852"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.55855036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g3293"
+       ns0:preamble="/home/diogo/.inkscape/extensions/preambulo_inkscape.tex"
+       ns0:text="$M$"
+       transform="translate(61.498354,30.675063)">
+      <defs
+         id="defs3295">
+        <g
+           id="g3297">
+          <symbol
+             id="textext-f1a8df2f-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3300"
+               d=""
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             id="textext-f1a8df2f-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3303"
+               d="M 8.703125,-6.515625 L 7.03125,-6.515625 L 3.6875,-1.59375 L 3.140625,-6.515625 L 1.328125,-6.515625 L 1.328125,-6.34375 C 1.828125,-6.3125 2.078125,-6.203125 2.078125,-5.984375 C 2.078125,-5.90625 2.03125,-5.75 1.96875,-5.578125 C 1.953125,-5.53125 1.921875,-5.421875 1.890625,-5.28125 C 1.875,-5.25 1.859375,-5.203125 1.859375,-5.15625 L 0.796875,-1.453125 C 0.484375,-0.421875 0.34375,-0.21875 -0.171875,-0.15625 L -0.171875,0 L 1.796875,0 L 1.796875,-0.15625 C 1.28125,-0.203125 1.09375,-0.3125 1.09375,-0.59375 C 1.09375,-0.703125 1.125,-0.953125 1.171875,-1.125 L 2.359375,-5.4375 L 2.953125,0 L 3.125,0 L 6.890625,-5.59375 L 5.609375,-0.90625 C 5.4375,-0.375 5.25,-0.234375 4.59375,-0.15625 L 4.59375,0 L 7.3125,0 L 7.3125,-0.15625 C 6.640625,-0.21875 6.546875,-0.28125 6.546875,-0.59375 C 6.546875,-0.75 6.5625,-0.890625 6.65625,-1.203125 L 7.890625,-5.609375 C 8.0625,-6.203125 8.109375,-6.265625 8.703125,-6.34375 L 8.703125,-6.515625 z"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-f1a8df2f-2">
+        <g
+           id="g3306"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use3308"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-f1a8df2f-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$N$"
+       ns0:preamble="/home/diogo/.inkscape/extensions/preambulo_inkscape.tex"
+       transform="translate(143.54046,96.023999)"
+       id="g3388">
+      <defs
+         id="defs3390">
+        <g
+           id="g3392">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-84a180a4-0">
+            <path
+               style="stroke:none"
+               d=""
+               id="path3395" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-84a180a4-1">
+            <path
+               style="stroke:none"
+               d="M 7.25,-6.515625 L 5.265625,-6.515625 L 5.265625,-6.34375 C 5.828125,-6.296875 5.96875,-6.203125 5.96875,-5.84375 C 5.96875,-5.71875 5.9375,-5.609375 5.875,-5.40625 C 5.859375,-5.375 5.859375,-5.328125 5.859375,-5.328125 L 4.828125,-1.53125 L 2.765625,-6.515625 L 1.15625,-6.515625 L 1.15625,-6.34375 C 1.625,-6.3125 1.828125,-6.1875 2.015625,-5.796875 L 0.828125,-1.640625 C 0.453125,-0.359375 0.375,-0.234375 -0.203125,-0.15625 L -0.203125,0 L 1.78125,0 L 1.78125,-0.15625 C 1.265625,-0.203125 1.078125,-0.3125 1.078125,-0.59375 C 1.078125,-0.71875 1.109375,-0.921875 1.171875,-1.125 L 2.296875,-5.328125 L 4.59375,0.15625 L 4.78125,0.15625 L 6.203125,-4.859375 C 6.578125,-6.15625 6.625,-6.203125 7.25,-6.34375 L 7.25,-6.515625 z"
+               id="path3398" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-84a180a4-2">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3401">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-84a180a4-1"
+             x="223.43201"
+             y="134.765"
+             id="use3403" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="\\[\n\\left\\{\n\\begin{array}{c}\n\\\\\n\\\\\n\\\\\n\\\\\n\\\\\n\\\\\n\\\\\n\\\\\n\\\\\n\\\\\n\\end{array}\n\\right.\n\\]"
+       ns0:preamble="/home/diogo/.inkscape/extensions/preambulo_inkscape.tex"
+       transform="matrix(0,-1,1,0,185.90922,605.20292)"
+       id="g5908">
+      <defs
+         id="defs5910">
+        <g
+           id="g5912">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-5066efd3-0">
+            <path
+               style="stroke:none"
+               d=""
+               id="path5915" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-5066efd3-1">
+            <path
+               style="stroke:none"
+               d="M 5.03125,4.515625 C 5.03125,3.703125 5.25,1.796875 7.015625,0.53125 C 7.140625,0.4375 7.15625,0.421875 7.15625,0.25 C 7.15625,0.015625 7.140625,0.015625 6.890625,0.015625 L 6.734375,0.015625 C 4.59375,1.171875 3.828125,3.046875 3.828125,4.515625 L 3.828125,8.796875 C 3.828125,9.0625 3.84375,9.078125 4.109375,9.078125 L 4.75,9.078125 C 5.015625,9.078125 5.03125,9.0625 5.03125,8.796875 L 5.03125,4.515625 z"
+               id="path5918" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-5066efd3-2">
+            <path
+               style="stroke:none"
+               d="M 5.03125,0.171875 C 5.03125,-0.09375 5.015625,-0.09375 4.75,-0.09375 L 4.109375,-0.09375 C 3.84375,-0.09375 3.828125,-0.09375 3.828125,0.171875 L 3.828125,2.828125 C 3.828125,3.078125 3.84375,3.09375 4.109375,3.09375 L 4.75,3.09375 C 5.015625,3.09375 5.03125,3.078125 5.03125,2.828125 L 5.03125,0.171875 z"
+               id="path5921" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-5066efd3-3">
+            <path
+               style="stroke:none"
+               d="M 5.03125,13.5625 C 5.03125,12.359375 4.515625,10.328125 2.28125,8.96875 C 4.53125,7.609375 5.03125,5.546875 5.03125,4.375 L 5.03125,0.171875 C 5.03125,-0.09375 5.015625,-0.09375 4.75,-0.09375 L 4.109375,-0.09375 C 3.84375,-0.09375 3.828125,-0.09375 3.828125,0.171875 L 3.828125,4.390625 C 3.828125,5.21875 3.65625,7.296875 1.8125,8.6875 C 1.703125,8.78125 1.6875,8.796875 1.6875,8.96875 C 1.6875,9.15625 1.703125,9.15625 1.8125,9.25 C 2.078125,9.453125 2.765625,9.984375 3.234375,10.984375 C 3.625,11.78125 3.828125,12.671875 3.828125,13.5625 L 3.828125,17.78125 C 3.828125,18.03125 3.84375,18.046875 4.109375,18.046875 L 4.75,18.046875 C 5.015625,18.046875 5.03125,18.03125 5.03125,17.78125 L 5.03125,13.5625 z"
+               id="path5924" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-5066efd3-4">
+            <path
+               style="stroke:none"
+               d="M 5.03125,0.171875 C 5.03125,-0.09375 5.015625,-0.09375 4.75,-0.09375 L 4.109375,-0.09375 C 3.84375,-0.09375 3.828125,-0.09375 3.828125,0.171875 L 3.828125,4.453125 C 3.828125,5.9375 4.59375,7.8125 6.734375,8.96875 L 6.890625,8.96875 C 7.140625,8.96875 7.15625,8.953125 7.15625,8.71875 C 7.15625,8.546875 7.140625,8.53125 7.109375,8.5 C 6.796875,8.28125 6.078125,7.765625 5.609375,6.84375 C 5.21875,6.09375 5.03125,5.328125 5.03125,4.453125 L 5.03125,0.171875 z"
+               id="path5927" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-5066efd3-5">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5930">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-1"
+             x="385.285"
+             y="124.802"
+             id="use5932" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5934">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="133.76801"
+             id="use5936" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5938">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="136.757"
+             id="use5940" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5942">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="139.746"
+             id="use5944" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5946">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="142.735"
+             id="use5948" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5950">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="145.724"
+             id="use5952" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5954">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="148.71201"
+             id="use5956" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5958">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="151.701"
+             id="use5960" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5962">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="154.69"
+             id="use5964" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5966">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="157.679"
+             id="use5968" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5970">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="160.668"
+             id="use5972" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5974">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="163.65601"
+             id="use5976" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5978">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="166.645"
+             id="use5980" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5982">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="169.634"
+             id="use5984" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5986">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="172.623"
+             id="use5988" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5990">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-3"
+             x="385.285"
+             y="175.612"
+             id="use5992" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5994">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="193.54401"
+             id="use5996" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5998">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="196.533"
+             id="use6000" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6002">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="199.522"
+             id="use6004" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6006">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="202.511"
+             id="use6008" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6010">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="205.49899"
+             id="use6012" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6014">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="208.48801"
+             id="use6016" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6018">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="211.47701"
+             id="use6020" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6022">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="214.466"
+             id="use6024" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6026">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="217.455"
+             id="use6028" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6030">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="220.44299"
+             id="use6032" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6034">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="223.43201"
+             id="use6036" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6038">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="226.42101"
+             id="use6040" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6042">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="229.41"
+             id="use6044" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6046">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-2"
+             x="385.285"
+             y="232.399"
+             id="use6048" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6050">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-5066efd3-4"
+             x="385.285"
+             y="235.38699"
+             id="use6052" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g6384"
+       transform="translate(-89.592928,-4.4719401)"
+       ns0:preamble="/home/diogo/.inkscape/extensions/preambulo_inkscape.tex"
+       ns0:text="\\[\n\\left\\{\n\\begin{array}{c}\n\\\\\n\\\\\n\\\\\n\\\\\n\\\\\n\\\\\n\\\\\n\\end{array}\n\\right.\n\\]">
+      <defs
+         id="defs6386">
+        <g
+           id="g6388">
+          <symbol
+             id="textext-c22bd1c4-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6391"
+               d=""
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             id="textext-c22bd1c4-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6394"
+               d="M 5.03125,4.515625 C 5.03125,3.703125 5.25,1.796875 7.015625,0.53125 C 7.140625,0.4375 7.15625,0.421875 7.15625,0.25 C 7.15625,0.015625 7.140625,0.015625 6.890625,0.015625 L 6.734375,0.015625 C 4.59375,1.171875 3.828125,3.046875 3.828125,4.515625 L 3.828125,8.796875 C 3.828125,9.0625 3.84375,9.078125 4.109375,9.078125 L 4.75,9.078125 C 5.015625,9.078125 5.03125,9.0625 5.03125,8.796875 L 5.03125,4.515625 z"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             id="textext-c22bd1c4-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6397"
+               d="M 5.03125,0.171875 C 5.03125,-0.09375 5.015625,-0.09375 4.75,-0.09375 L 4.109375,-0.09375 C 3.84375,-0.09375 3.828125,-0.09375 3.828125,0.171875 L 3.828125,2.828125 C 3.828125,3.078125 3.84375,3.09375 4.109375,3.09375 L 4.75,3.09375 C 5.015625,3.09375 5.03125,3.078125 5.03125,2.828125 L 5.03125,0.171875 z"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             id="textext-c22bd1c4-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6400"
+               d="M 5.03125,13.5625 C 5.03125,12.359375 4.515625,10.328125 2.28125,8.96875 C 4.53125,7.609375 5.03125,5.546875 5.03125,4.375 L 5.03125,0.171875 C 5.03125,-0.09375 5.015625,-0.09375 4.75,-0.09375 L 4.109375,-0.09375 C 3.84375,-0.09375 3.828125,-0.09375 3.828125,0.171875 L 3.828125,4.390625 C 3.828125,5.21875 3.65625,7.296875 1.8125,8.6875 C 1.703125,8.78125 1.6875,8.796875 1.6875,8.96875 C 1.6875,9.15625 1.703125,9.15625 1.8125,9.25 C 2.078125,9.453125 2.765625,9.984375 3.234375,10.984375 C 3.625,11.78125 3.828125,12.671875 3.828125,13.5625 L 3.828125,17.78125 C 3.828125,18.03125 3.84375,18.046875 4.109375,18.046875 L 4.75,18.046875 C 5.015625,18.046875 5.03125,18.03125 5.03125,17.78125 L 5.03125,13.5625 z"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             id="textext-c22bd1c4-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6403"
+               d="M 5.03125,0.171875 C 5.03125,-0.09375 5.015625,-0.09375 4.75,-0.09375 L 4.109375,-0.09375 C 3.84375,-0.09375 3.828125,-0.09375 3.828125,0.171875 L 3.828125,4.453125 C 3.828125,5.9375 4.59375,7.8125 6.734375,8.96875 L 6.890625,8.96875 C 7.140625,8.96875 7.15625,8.953125 7.15625,8.71875 C 7.15625,8.546875 7.140625,8.53125 7.109375,8.5 C 6.796875,8.28125 6.078125,7.765625 5.609375,6.84375 C 5.21875,6.09375 5.03125,5.328125 5.03125,4.453125 L 5.03125,0.171875 z"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-c22bd1c4-5">
+        <g
+           id="g6406"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6408"
+             y="124.802"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-1"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6410"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6412"
+             y="133.76801"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6414"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6416"
+             y="136.757"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6418"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6420"
+             y="139.746"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6422"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6424"
+             y="142.735"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6426"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6428"
+             y="145.724"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6430"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6432"
+             y="148.71201"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6434"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6436"
+             y="151.701"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6438"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6440"
+             y="154.69"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6442"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6444"
+             y="157.679"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-3"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6446"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6448"
+             y="175.61099"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6450"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6452"
+             y="178.60001"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6454"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6456"
+             y="181.589"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6458"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6460"
+             y="184.578"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6462"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6464"
+             y="187.567"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6466"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6468"
+             y="190.55499"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6470"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6472"
+             y="193.54401"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6474"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6476"
+             y="196.533"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-2"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+        <g
+           id="g6478"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use6480"
+             y="199.522"
+             x="385.285"
+             xlink:href="#textext-c22bd1c4-4"
+             width="145.07959"
+             height="116.57706" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
