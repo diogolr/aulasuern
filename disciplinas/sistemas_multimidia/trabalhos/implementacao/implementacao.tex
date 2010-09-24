@@ -1,0 +1,148 @@
+\documentclass[a4paper,11pt]{article}
+
+\input{pacotes.tex}
+\input{comandos.tex}
+
+\pagestyle{empty}
+\setlength{\parindent}{12mm}
+%\usepackage{indentfirst}
+
+\begin{document}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{cl}
+% Primeira Linha
+\multirow{7}{*}
+{
+\includegraphics[width=1.65cm]{imgs/uern}
+} & \\
+& Governo do Estado do Rio Grande do Norte\\
+% Segunda Linha
+& Secretaria de Estado da Educação, da Cultural e dos Desportos -- SECD\\
+% Terceira Linha
+& {\sc Universidade do Estado do Rio Grande do Norte -- UERN}\\
+% Quarta Linha
+& Pró-Reitoria de Ensino e Graduação -- PROEG\\
+% Quinta Linha
+& Ciências da Computação -- Trabalho prático para 2\textordfeminine\ unidade (10
+pontos)\\
+& 
+\end{tabular}
+\end{table}
+
+\begin{center}
+\Large
+\uline{{\sc Trabalho Prático de Implementação}}
+\end{center}
+
+\section*{Informações gerais}
+
+Vimos ao longo da disciplina que o processamento digital de informações é uma
+área bastante ampla e que, consequentemente, abrange diversos assuntos. Sabendo
+disso, propõe-se aqui um trabalho no qual os alunos deverão implementar um
+sistema computacional que irá processar informações de áudio, vídeo ou imagem.
+Tal trabalho será de grande importância para avaliar o conhecimento adquirido ao
+longo do semestre e irá compor a nota da segunda unidade da disciplina.
+
+O trabalho deverá ser entregue {\bf até às 23:59h da data estabelecida} em sala
+de aula, podendo ser desenvolvido maneira individual ou em grupo de no máximo 4
+(quatro) integrantes. Após estabelecida a data, \uline{{\bf não haverá
+prorrogação do prazo}}.
+
+A avaliação do trabalho será realizada em dois dias e todos os grupos deverão
+estar presentes. A participação dos grupos, dando sugestões ou tirando dúvidas
+sobre a implementação, também será levada em consideração na avaliação.
+
+A nota será a mesma para todos os componentes do grupo, havendo penalização para
+cada dia de atraso na entrega. Caso algum componente do grupo não possa
+comparecer no dia da apresentação, a falta deverá ser justificada junto à
+coordenação, de acordo com as normas da UERN. Nos casos em que a {\bf falta não}
+for {\bf justificada}, o aluno receberá {\bf nota 0.0 (zero)}.
+
+\section*{Os critérios de avaliação}
+Os trabalhos poderão ser implementados em qualquer linguagem de programação
+desde que esta possua recursos para o desenvolvimento de interfaces gráficas.
+Sugere-se, entretanto, a utilização de C/C++ (Qt ou Gtk), Java ou Python. 
+
+Os seguintes critérios serão levados em consideração para composição da nota
+final:
+
+\begin{enumerate}
+    \item Apresentação do sistema (30\% da nota)
+    \item Objetivos/Resultados (25\% da nota)
+    \item Interface amigável e de fácil utilização (15\% da nota)
+    \item Documentação/Organização do código (15\% da nota)
+    \item Participação em outras apresentações (15\% da nota)
+\end{enumerate}
+
+Os arquivos referentes a implementação e a apresentação deverão ser organizados
+em uma estrutura de pastas, compactados e enviados para {\tt diogolr@gmail.com}
+com o Assunto {\tt [SistMult-Natal] Trabalho - Grupo X} para a turma do Campus
+de Natal, ou {\tt [SistMult-NC] Trabalho - Grupo X} para a turma do Núcleo de
+Nova Cruz.
+
+\section*{Nota final}
+A nota final será composta pela soma dos critérios acima estabelecidos e pela
+penalização por dia de atraso, conforme Eq. \ref{eq:nota}.
+
+\begin{equation}\label{eq:nota}
+N_f = \D 1,25^{-D_a} \times \sum_{i = 1}^5 C_i
+\end{equation}
+
+\noindent em que $D_a$ se refere aos dias de atraso contados a partir da data
+estabelecida e $C_i$ corresponde ao $i$-ésimo critério.
+
+\section*{Tópicos para os trabalhos}
+
+Dentre os diversos assuntos estudados, sugere-se os seguintes tópicos: 
+
+\begin{itemize}
+    \item Compressão de imagem
+    \begin{itemize}
+        \item Com perda
+        \item Sem perda
+    \end{itemize}
+    \item Compressão de vídeo
+    \item Compressão de áudio
+    \item Manipulação de imagens
+    \begin{itemize}
+        \item Conversão de formato (não será permitido a utilização de
+              bibliotecas)
+        \item Reconhecimento de padrões
+        \item Eliminação de ruído
+        \item Aplicação de filtros
+        \item Detecção de arestas
+        \item Editor: Fazendo, no mínimo, recorte, colagem (composição), {\it
+              clip} e salvando a imagem final (pode-se utilizar as bibliotecas
+              disponíveis)
+    \end{itemize}
+    \item Manipulação de vídeo
+    \begin{itemize}
+        \item Conversão de formato (não será permitido a utilização de
+              bibliotecas)
+        \item Aplicação de efeitos
+        \item Editor: Fazendo, no mínimo, recorte, {\it play} e salvando o vídeo
+              final (pode-se utilizar as bibliotecas disponíveis)
+    \end{itemize}
+    \item Separação áudio/vídeo (pode-se utilizar bibliotecas)
+    \item Biometria: Identificação biométrica (dedo, face ou mão)\footnote{A
+          aquisição da imagem/características deve ser feita pelo sistema
+          desenvolvido, podendo-se utilizar qualquer equipamento/{\it
+          drivers} disponíveis.}
+    \item Aplicações musicais: Utilizando arquivos MID (por exemplo), tal como
+          um teclado virtual, ou um violão. A aplicação deverá permitir que
+          sejam executadas notas sequenciais (música) a partir de uma entrada de
+          texto
+    \item Desenvolvimento de jogos, utilizando OpenGL
+\end{itemize}
+
+{\bf Os alunos não estão restritos à esses tópicos}. Qualquer outro tópico,
+desde que relacionado com o processamento de imagens, áudio ou vídeo, poderá ser
+enviado por e-mail até 20 dias antes da data da apresentação, estando sujeito à
+aprovação pelo professor.
+
+Após a escolha do tema pelo grupo, qualquer modificação só poderá ser realizada
+até 20 dias antes da data da apresentação (através de e-mail).
+
+\end{document}
