@@ -1,0 +1,121 @@
+\documentclass[a4paper,11pt]{article}
+
+\input{pacotes.tex}
+\input{comandos.tex}
+
+\begin{document}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{cl}
+% Primeira Linha
+\multirow{7}{*}
+{
+\includegraphics[width=1.65cm]{imgs/uern}
+} & \\
+& Governo do Estado do Rio Grande do Norte\\
+% Segunda Linha
+& Secretaria de Estado da Educação, da Cultural e dos Desportos -- SECD\\
+% Terceira Linha
+& {\sc Universidade do Estado do Rio Grande do Norte -- UERN}\\
+% Quarta Linha
+& Pró-Reitoria de Ensino e Graduação -- PROEG\\
+% Quinta Linha
+& Ciências da Computação -- Reposição da 1\textordfeminine\ Avaliação (10
+  pontos)\\
+& 
+\end{tabular}
+\end{table}
+
+Aluno:
+
+\vspace{0.25cm} 
+
+Data: %\today
+
+\section*{Questão 1 (2 pontos)}
+Quando falamos sobre a representação da informação, mostramos que existem dois
+tipos de representação de imagens. Cite quais são esses dois tipos de
+representação e determine suas características e aplicações.
+
+\pagebreak
+
+\section*{Questão 2 (1 ponto)}
+Durante o processo de conversão A/D, devemos determinar o tipo de quantização a
+ser utilizada e o número de bits para se representar cada amostra do sinal.
+Baseado nessas informações, responda as alternativas abaixo:
+
+\begin{itemize}
+    \item [a)] Cite e determine as características dos tipos de quantização
+explicados em sala de aula.
+    \item [b)] Determine qual será a velocidade mínima ({\bf em Kbit/s}) que um
+canal deve assegurar para que haja uma transmissão sem perda de um sinal
+digital, obtido a partir de um processo de digitalização (conversão A/D) de um
+sinal de voz de 4,5 KHz. Cada amostra deve ser representada por 16 bits.
+\end{itemize}
+
+\pagebreak
+
+\section*{Questão 3 (1 ponto)}
+Sabemos que a criação de imagens, sons e vídeos no formato digital traz
+benefícios até mesmo quando o produto final for distribuído em mídia analógica e
+que esses recursos estão intimamente relacionados com o conceito de {\bf
+multimídia}. Assim sendo, responda:
+
+\begin{itemize}
+    \item[a)] O que é multimídia?
+    \item[b)] Quais são as principais características dos arquivos multimídia?
+\end{itemize}
+
+\pagebreak
+
+\section*{Questão 4 (2 pontos)}
+Mostramos em sala de aula que existem três tipos de produtos multimídia:
+títulos, aplicativos e sítios. Baseado nessas informações, responda:
+
+\begin{itemize}
+    \item[a)] Quais são as principais diferenças entre os {\bf aplicativos com
+interface multimídia} e os {\bf aplicativos multimídia}?
+    \item[b)] O que são sítios? Quais são os possíveis materiais que constituem
+um sítio?
+\end{itemize}
+
+\pagebreak
+
+\section*{Questão 5 (2 pontos)}
+Falamos em sala de aula que, para criar qualquer tipo de produto multimídia,
+devemos considerar os aspectos relacionados aos {\bf direitos autorais} do
+material que utilizamos. Sabendo disso, cite quais são os principais tipos de
+restrições (limitações) a serem consideradas.
+
+\pagebreak
+
+\section*{Questão 6 (2 pontos)}
+Uma imagem, representada no {\bf formato matricial}, semelhante à Fig.
+\ref{fig:matriz}, utiliza uma codificação RGBA de 8 bits por cor ({\bf 8
+bits/cor}) e {\bf 8 bits de transparência} para cada um de seus {\it pixels}.
+Assim, responda:
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.3\textwidth]{imgs/matriz}
+\caption{Matriz de {\it pixels} utilizada na Questão 6.}
+\label{fig:matriz}
+\end{figure}
+
+\begin{itemize}
+    \item [a)] Qual será o tamanho de um arquivo ({\bf em KBytes}) dessa imagem
+sabendo que esta possui 60 linhas ($M = 60$) $\times$ 90 colunas ($N = 90$)?
+    \item [b)] Deseja-se comprimir esta imagem sem que haja perda da informação.
+Mas, para isso a imagem deve ser antes dividida em partes menores de $6 \times
+9$ {\it pixels}. Em quantas partes essa imagem será decomposta? Qual será o
+tamanho ({\bf em Bytes}) de cada uma dessas partes antes de passar pelo
+algoritmo de compressão?
+    \item [c)] Se cada parte da alternativa {\it b} sofrer uma compressão de
+20\%, qual será o tamanho final ({\bf em KBytes}) do arquivo comprimido?
+
+\end{itemize}
+
+\pagebreak
+
+\end{document}
