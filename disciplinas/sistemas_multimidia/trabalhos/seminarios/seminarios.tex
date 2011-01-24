@@ -1,0 +1,134 @@
+\documentclass[a4paper,11pt]{article}
+
+\input{pacotes.tex}
+\input{comandos.tex}
+
+\pagestyle{empty}
+\setlength{\parindent}{12mm}
+%\usepackage{indentfirst}
+
+\begin{document}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{cl}
+% Primeira Linha
+\multirow{7}{*}
+{
+\includegraphics[width=1.65cm]{imgs/uern}
+} & \\
+& Governo do Estado do Rio Grande do Norte\\
+% Segunda Linha
+& Secretaria de Estado da Educação, da Cultural e dos Desportos -- SECD\\
+% Terceira Linha
+& {\sc Universidade do Estado do Rio Grande do Norte -- UERN}\\
+% Quarta Linha
+& Pró-Reitoria de Ensino e Graduação -- PROEG\\
+% Quinta Linha
+& Ciências da Computação -- Trabalho teórico para 3\textordfeminine\ unidade (10
+pontos)\\
+& 
+\end{tabular}
+\end{table}
+
+\begin{center}
+\Large
+\uline{{\sc Trabalho Teórico de Pesquisa}}
+\end{center}
+
+\section*{Informações gerais}
+
+Apesar de sabermos que o campo de Sistemas Multimídia abrange diversas áreas de
+atuação, não conhecemos em detalhes que áreas são essas. Por ser uma matéria que
+continuamente evolui, a cada dia surgem mais segmentos de pesquisa. Pesquisar
+sobre esses segmentos pode abrir nossa mente para várias coisas e,
+principalmente, fazer com que tenhamos ideia\$ inovadora\$.
+
+Assim sendo, nesta terceira unidade é proposto um trabalho de pesquisa em que
+vocês deverão trazer a tona os temas mais recentes da área de sistemas
+multimídia. Para isso, deverão {\bf elaborar um} texto no formato de {\bf
+artigo e uma apresentação}.
+
+O trabalho (artigo + apresentação) deverá ser entregue {\bf até às 23:59h da
+data estabelecida} em sala de aula, podendo ser feito maneira individual ou em
+grupo de no máximo 4 (quatro) integrantes. Após estabelecida a data, \uline{{\bf
+não haverá prorrogação do prazo}}.
+
+A avaliação do trabalho será realizada em dois dias e todos os grupos deverão
+estar presentes. A participação dos grupos, dando sugestões ou tirando dúvidas
+sobre o desenvolvimento, também será levada em consideração na avaliação.
+
+A nota será a mesma para todos os componentes do grupo, havendo penalização para
+cada dia de atraso na entrega. Caso algum componente do grupo não possa
+comparecer no dia da apresentação, a falta deverá ser justificada junto à
+coordenação, de acordo com as normas da UERN. Nos casos em que a {\bf falta não}
+for {\bf justificada}, o aluno receberá {\bf nota 0.0 (zero)}.
+
+\section*{Os critérios de avaliação}
+Com o intuito de incentivar a produção de documentos em \LaTeX, será fornecido
+um {\it artigo modelo} para que vocês modifiquem o conteúdo e adequem ao tópico
+selecionado. Além do modelo citado, serão fornecidos também os arquivos da
+apostila e da apresentação do minicurso de \LaTeX. 
+
+Dessa forma, não será permitida a entrega dos artigos produzidos através do
+Word, BrOffice, OpenOffice ou qualquer outra ferramenta do gênero. Os trabalhos
+entregues nesse formato perderão de antemão 30\% da nota. Qualquer dúvida não
+esclarecida com o material fornecido pode ser retirada por e-mail ou
+pessoalmente.
+
+As apresentações, por outro lado, poderão ser desenvolvidas em qualquer tipo de
+ferramenta. Contudo, as apresentações desenvolvidas em \LaTeX\ receberão um
+bônus de 10\% sobre a nota final. Logo, os seguintes critérios serão levados em
+consideração para composição da nota:
+
+\begin{enumerate}
+    \item Desenvolvimento do artigo em \LaTeX (30\% da nota)
+    \item Apresentação do tema (55\% da nota)
+    \item Participação em outras apresentações (15\% da nota)
+    \item Desenvolvimento da apresentação em \LaTeX (10\% extra)
+\end{enumerate}
+
+Os arquivos referentes ao artigo e a apresentação deverão ser organizados em uma
+estrutura de pastas, compactados e enviados para {\tt diogolr@gmail.com} com o
+Assunto {\tt [SistMult-Natal] Trabalho - Grupo X} para a turma do Campus de
+Natal, ou {\tt [SistMult-NC] Trabalho - Grupo X} para a turma do Núcleo de Nova
+Cruz.
+
+\section*{Nota final}
+A nota final será composta pela soma dos critérios acima estabelecidos e pela
+penalização por dia de atraso, conforme Eq. \ref{eq:nota}.
+
+\begin{equation}\label{eq:nota}
+N_f = \D 1,25^{-D_a} \times \sum_{i = 1}^3 C_i
+\end{equation}
+
+\noindent em que $D_a$ se refere aos dias de atraso contados a partir da data
+estabelecida e $C_i$ corresponde ao $i$-ésimo critério.
+
+\section*{Tópicos para os trabalhos}
+
+Os seguintes tópicos são sugeridos para a elaboração do trabalho:
+
+\begin{itemize}
+    \item 3DTV
+    \item Linguagem SMIL
+    \item Ferramentas para o desenvolvimento de aplicativos para TV Digital
+    \item H.264/Mpeg-4 SVC – Scalable Video Coding
+    \item Padrões de comunicação em TV Digital (brasileiro $\times$
+          estrangeiros)
+    \item Medição de qualidade de vídeo em redes de pacotes (QoE -- {\it Quality
+          of Experience}, modelos para qualidade de vídeo)
+    \item Redes de Distribuição de Conteúdo (CDN)
+    \item Vídeo por demanda
+    \item Mídias de armazenamento
+\end{itemize}
+
+{\bf Os alunos não estão restritos à esses tópicos}. Qualquer outro tópico,
+desde que relacionado com o processamento de imagens, áudio ou vídeo, poderá ser
+enviado por e-mail até 20 dias antes da data da apresentação, estando sujeito à
+aprovação pelo professor.
+
+Após a escolha do tema pelo grupo, qualquer modificação só poderá ser realizada
+até 20 dias antes da data da apresentação (através de e-mail).
+
+\end{document}
