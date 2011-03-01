@@ -1,0 +1,78 @@
+\mychapter{Introdução aos sistemas de tempo real}
+\section{Visão geral}
+A utilização de sistemas de tempo real cresce cada vez mais e, em um mercado
+competitivo, qualquer melhora de desempenho implica em maiores possibilidades de
+venda. Este capítulo introdutório tentará mostrar os principais conceitos
+relacionados a esse tipo de sistema, mostrando algumas das principais
+dificuldades encontradas pelos programadores ao longo do desenvolvimento de
+aplicações de tempo real.
+
+\section{Desenvolvimento de sistemas de tempo real}
+A integridade de muitos sistemas e dispositivos na sociedade moderna depende não
+só dos efeitos ou resultados que esses produzem, mas também do tempo em que
+esses resultados são produzidos. Os sistemas de tempo real, os quais estão
+diretamente relacionados com essa característica, abrangem então desde de
+sistemas de ``freio abs'' até o monitoramento de sinais vitais em um hospital.
+
+Ao contrário dos sistemas de \soft\ convencionais, os sistemas de tempo real
+estão intrinsecamente relacionados com o ambiente em que estão operando.
+Exemplos desses tipos de sistemas podem ser encontrados no cotidiano: sistemas
+de anti-travamento de freios computadorizados, monitoramento de sinais vitais,
+aviação, estações espaciais, satélites geoestacionários, controladores e
+manipuladores robóticos, controle de plantas e processos industriais,
+ferramentas multimídia, sistemas de realidade virtual, comunicação sem fio,
+telescópio astronômicos, dentre outros. Sabendo disso, pode-se perguntar: o que
+seria então um sistema de tempo real?  Por que tal termo é utilizado? 
+
+De maneira simplificada, um sistema computacional é dito {\it Sistema de Tempo
+Real} (STR) quando a integridade dos dados produzidos dependem não só do
+comportamento e da manipulação lógica dos dados, mas também do instante em que
+esses dados são produzidos. Normalmente, sistemas desse tipo reagem aos sinais
+de entrada de maneira dinâmica, mudando seu estado de configuração de acordo o
+processo que está sendo monitorado.
+
+Em sistemas críticos, tais como em controle de tráfego aéreo e ferroviário, é
+comum fazer uso de múltiplas {\it threads}, múltiplos processos ou ainda
+de processamento distribuídos para que se alcance o desempenho requerido para
+esse tipo de aplicações. Por esse motivo, termos como {\it multi-thread} e {\it
+multi-task} são algumas vezes utilizados, de maneira equivocada, como sinônimos
+de sistemas de tempo real.
+
+\section{Características dos STR}
+Existem muitas características que diferem STR dos sistemas computacionais
+convencionais. Entretanto, deve-se destacar que nem todas as características se
+aplicam a qualquer tipo de STR. Algumas dessas características são:
+
+\begin{itemize}
+    \item Tempo de resposta limitado
+    \item Escalonamento de processos
+    \item Programação em baixo nível
+    \item \Soft\ fortemente ligado a um {\it hardware} específico
+    \item Funções especializadas
+    \item Variáveis voláteis
+    \item Implementação multi-tarefa
+    \item Ambientes de execução imprevisíveis
+    \item Execução contínua do sistema
+    \item Aplicações críticas
+\end{itemize}
+
+\subsection{Aspectos importantes}
+Sabe-se que todo STR está diretamente relacionado com as restrições temporais de
+operação. Uma forma bem comum dessas restrições são os {\it deadlines}
+estabelecidos para a conclusão das atividades. Um {\it deadline} especifica o
+tempo máximo permitido para que uma tarefa seja concluída e seus resultados
+estejam disponíveis para serem acessados pelo usuário.
+
+Devido a essa característica, os STR são em sua maioria implementados em uma
+linguagem que permitem que o programador acesse os recursos disponíveis de
+maneira rápida e eficiente. Linguagens como C e C++, comumente utilizadas para o
+desenvolvimento de sistemas operacionais, são muitas vezes utilizadas por
+permitir isso. 
+
+Contudo, há ainda aplicações em que nem mesmo essas linguagens serão utilizadas,
+sendo necessário que todo o sistema, ou boa parte deste, seja implementado em
+linguagens de baixo nível. Em muitos dos casos, recursos blocos {\tt asm} em C
+serão utilizados para estabelecer um limiar entre o desenvolvimento em alto
+nível e em baixo nível.
+
+\section{Exemplos de sistemas de tempo real}
