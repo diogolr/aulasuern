@@ -1,0 +1,1 @@
+Notas de aula da disciplinas lecionadas na Universidade do Estado do Rio Grande do Norte
